@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MALATANG - Lạp Xưởng Nướng Đá</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="logo">MALATANG</div>
+        <nav>
+            <ul>
+                <li><a href="#gioi-thieu">Giới Thiệu</a></li>
+                <li><a href="#san-pham">Sản Phẩm</a></li>
+                <li><a href="#uu-dai">Ưu Đãi</a></li>
+                <li><a href="#lien-he">Liên Hệ</a></li>
+            </ul>
+        </nav>
+        <a href="#mua-ngay" class="cta-button">Mua Ngay</a>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <h1>Lạp Xưởng Nướng Đá Hà Khẩu – Hương vị chuẩn Trung Hoa</h1>
+        <p>Trải nghiệm lạp xưởng độc quyền, nướng trên đá, giữ nguyên hương vị tuyệt hảo!</p>
+        <a href="#san-pham" class="cta-button">Khám Phá Ngay</a>
+    </section>
+
+    <!-- GIỚI THIỆU -->
+    <section id="gioi-thieu" class="section">
+        <h2>Vì sao chọn MALATANG?</h2>
+        <p>100% nguyên liệu sạch, công thức gia truyền 12 năm từ Hà Khẩu, cam kết chất lượng.</p>
+    </section>
+
+    <!-- SẢN PHẨM -->
+    <section id="san-pham" class="section">
+        <h2>Sản Phẩm Nổi Bật</h2>
+        <div class="product">
+            <img src="lap-xuong.jpg" alt="Lạp Xưởng Nướng Đá">
+            <h3>Combo 600g – 10 cây</h3>
+            <p>Giá: 95.000đ</p>
+            <a href="#" class="cta-button">Mua Ngay</a>
+        </div>
+    </section>
+
+    <!-- ƯU ĐÃI -->
+    <section id="uu-dai" class="section">
+        <h2>Ưu Đãi Đặc Biệt</h2>
+        <p>Giảm 10% khi đặt hàng lần đầu. Mua 3 combo tặng ngay 1 hộp nước chấm độc quyền.</p>
+    </section>
+
+    <!-- LIÊN HỆ -->
+    <section id="lien-he" class="section">
+        <h2>Liên Hệ</h2>
+        <p>Hotline: 091.139.3333</p>
+        <p>Địa chỉ: SH 2A-SP29 Vinhomes Ocean Park, Gia Lâm, Hà Nội</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MALATANG. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
